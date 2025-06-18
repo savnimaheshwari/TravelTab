@@ -1,40 +1,31 @@
 # ✈️ TravelTab
 
-**TravelTab** is a clean and powerful iOS app for organizing group trips, tracking shared expenses, and generating AI-powered insights. Designed for ease of use and built with modern SwiftUI architecture.
+**TravelTab** is a sleek iOS app that helps you plan group trips, track shared expenses, and get personalized insights — all in a beautiful and intuitive interface.
 
 ---
 
-## Features
+## 🚀 Features
 
-- Create a trip and add participants with a modern UI
-- Track who paid, how much, and who owes whom
-- Set budgets by category (food, transport, stay, etc.)
-- Automatically calculate reimbursements
-- Get personalized summaries using OpenAI’s GPT model
-
----
-
-## How AI is Used
-
-TravelTab integrates the OpenAI GPT API to:
-- Analyze each participant’s expenses and budgets
-- Generate dynamic, natural-language summaries
-- Provide encouraging and human-like insights based on financial behavior
-
-This transforms raw numbers into personalized feedback, making budgeting feel more interactive and approachable.
+- **Create a Trip**: Name your adventure and add participants in a fun, guided UI.
+- **Track Group Expenses**: Log who paid, how much, and split fairly.
+- **Budgets by Category**: Set and monitor spending across food, transport, stay, and more.
+- **Auto Settlement Calculation**: Know who owes whom, instantly.
+- **Smart Spending Insights** 🧠: Get dynamic and friendly feedback on your financial behavior using integrated intelligence.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- SwiftUI (iOS UI framework)
-- Combine (state management)
-- OpenAI API (GPT-3.5)
-- URLSession (for async networking)
-- Xcode (native Apple development)
+- **SwiftUI** – Declarative UI framework for iOS.
+- **Combine** – Reactive programming to handle state updates.
+- **OpenAI API** – GPT-powered language generation for insights.
+- **Xcode** – Built using native Apple tooling.
 
 ---
 
-## License
+## 🌱 Why TravelTab?
 
-MIT License
+Group trips often end with confusion around expenses, overspending, and awkward reimbursements. TravelTab makes this process seamless and even **enjoyable** by:
+- **Simplifying cost sharing**
+- **Preventing budget overshoot**
+- **Turning dry data into engaging summaries**
