@@ -30,6 +30,3 @@ Group trips often end with confusion around expenses, overspending, and awkward 
 - **Preventing budget overshoot**
 - **Turning dry data into engaging summaries**
 
-## License
-
-MIT License. See `LICENSE` file for details.
